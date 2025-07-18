@@ -6,9 +6,9 @@ const CONFIG = {
     role: "",
     bio: "人之生也，固若是芒乎！其我独芒，而人亦有不芒者乎！",
     email: "cookcocck@gmail.com",
-    // linkedin: "morethanmin",
-    github: "morethanmin",
-    // instagram: "",
+    linkedin: "None",
+    github: "https://github.com/cookcocck",
+    instagram: "None",
   },
   projects: [
     {
